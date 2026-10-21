@@ -53,7 +53,7 @@ Diablo	github.io
 
 Hedgewars	https://webwars.link
 
-Mais GTA / Minecraft	wasmarcade.com
+Mais GTA / Minecraft	https://wasmarcade.com
 
 ⚠️ Aviso importante: Alguns precisam dos seus próprios arquivos do jogo.
 Ignore qualquer coisa que peça para baixar um launcher.
