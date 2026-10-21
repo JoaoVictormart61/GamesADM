@@ -3,7 +3,7 @@
 LISTA COMPLETA DE JOGOS AQUI, APROVEITE!!
 
 
-JOGO	LINK DE ACESSO
+JOGO	LINK DE ACESSO;
 BO1 Zombies	vel.gg
 Moon	pages.dev
 Kino der Toten	pages.dev
