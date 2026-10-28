@@ -13,18 +13,6 @@ GTA Vice City	https://github.io
 
 The Simpsons: Hit & Run	https://workers.dev
 
-Return to Castle Wolfenstein	https://peter.com
-
-Unreal Tournament	https://peter.com
-
-Half Life	https://github.io
-
-Half Life / CS 1.6	https://github.io
-
-Diablo	https://github.io
-
-Hedgewars	https://webwars.link
-
 Mais GTA / Minecraft	https://wasmarcade.com
 
 Resident Evil 4 https://residentevil4.oniline
