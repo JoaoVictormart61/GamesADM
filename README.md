@@ -5,19 +5,19 @@ LISTA COMPLETA DE JOGOS AQUI, APROVEITE!!
 
 JOGO	LINK DE ACESSO
 
-BO1 Zombies	vel.gg
+BO1 Zombies	https://vel.gg
 
-Moon	pages.dev
+Moon	https://pages.dev
 
-Kino der Toten	pages.dev
+Kino der Toten	https://pages.dev
 
-BO3 Cheese Cube	pages.dev
+BO3 Cheese Cube	https://pages.dev
 
-Black Ops 2	luckeysystems.com
+Black Ops 2	https://luckeysystems.com
 
-Modern Warfare 2	railway.app
+Modern Warfare 2	https://railway.app
 
-Skate 3	aaddpp.lol
+Skate 3	https://aaddpp.lol
 
 Skate Rust	https://global-terror.net
 
@@ -27,33 +27,38 @@ Halo CE	mitchellhynes.com
 
 Halo CE mobile	https://hcemobile.com
 
-PES 6	optijuegos.net
+PES 6	https://optijuegos.net
 
-GTA 5	archive.org
+GTA 5	https://archive.org
 
-GTA Vice City	github.io
+GTA Vice City	https://github.io
 
-The Simpsons: Hit & Run	workers.dev
+The Simpsons: Hit & Run	https://workers.dev
 
-Quake 1	peter.com
+Quake 1	https://peter.com
 
-Quake 2	peter.com
+Quake 2	https://peter.com
 
-Quake 3	peter.com
+Quake 3	https://peter.com
 
-Return to Castle Wolfenstein	peter.com
+Return to Castle Wolfenstein	https://peter.com
 
-Unreal Tournament	peter.com
+Unreal Tournament	https://peter.com
 
-Half Life	github.io
+Half Life	https://github.io
 
-Half Life / CS 1.6	github.io
+Half Life / CS 1.6	https://github.io
 
-Diablo	github.io
+Diablo	https://github.io
 
 Hedgewars	https://webwars.link
 
 Mais GTA / Minecraft	https://wasmarcade.com
 
-⚠️ Aviso importante: Alguns precisam dos seus próprios arquivos do jogo.
-Ignore qualquer coisa que peça para baixar um launcher.
+Resident Evil 4 https://residentevil4.oniline
+
+Guitar Hero 3 https://gh3.thediaryofchris.net
+
+FIFA Street 2 https://fifastreet2.fun
+
+Midnight Club 3 https://midnightclub3.online
