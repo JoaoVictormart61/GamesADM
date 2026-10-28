@@ -22,3 +22,5 @@ Guitar Hero 3 https://gh3.thediaryofchris.net
 FIFA Street 2 https://fifastreet2.fun
 
 Midnight Club 3 https://midnightclub3.online
+
+Tekken 5 https://tekken5.online
