@@ -7,39 +7,11 @@ JOGO	LINK DE ACESSO
 
 BO1 Zombies	https://vel.gg
 
-Moon	https://pages.dev
-
-Kino der Toten	https://pages.dev
-
-BO3 Cheese Cube	https://pages.dev
-
-Black Ops 2	https://luckeysystems.com
-
-Modern Warfare 2	https://railway.app
-
-Skate 3	https://aaddpp.lol
-
-Skate Rust	https://global-terror.net
-
-CS Surf	https://surfd.net
-
-Halo CE	mitchellhynes.com
-
-Halo CE mobile	https://hcemobile.com
-
 PES 6	https://optijuegos.net
-
-GTA 5	https://archive.org
 
 GTA Vice City	https://github.io
 
 The Simpsons: Hit & Run	https://workers.dev
-
-Quake 1	https://peter.com
-
-Quake 2	https://peter.com
-
-Quake 3	https://peter.com
 
 Return to Castle Wolfenstein	https://peter.com
 
