@@ -15,7 +15,7 @@ The Simpsons: Hit & Run	https://workers.dev
 
 Mais GTA / Minecraft	https://wasmarcade.com
 
-Resident Evil 4 https://residentevil4.oniline
+Resident Evil 4 https://residentevil4.online
 
 Guitar Hero 3 https://gh3.thediaryofchris.net
 
