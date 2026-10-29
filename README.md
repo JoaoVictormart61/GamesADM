@@ -30,3 +30,11 @@ Need for Speed MW https://nfsmwo.com
 Need for Speed U2 https://nfsu2.xyz
 
 Gta 5 https://fiveplay.lol
+
+Downhill https://downhilldomination.online
+
+Super Mario 64 https://olivers.tools/play
+
+Mortal Kombat Shaolin Monks https://mortalkombatsm.online
+
+Marvel vs Capcom https://marvelvscapcom2.online
