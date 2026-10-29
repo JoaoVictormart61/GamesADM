@@ -26,3 +26,5 @@ Midnight Club 3 https://midnighhtclub3.online
 Tekken 5 https://tekken5.online
 
 Need for Speed MW https://nfsmwo.com
+
+Need for Speed U2 https://nfsu2.xyz
