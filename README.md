@@ -39,4 +39,6 @@ Mortal Kombat Shaolin Monks https://mortalkombatsm.online
 
 Marvel vs Capcom https://marvelvscapcom2.online
 
+Hollow Knight https://dezm0n.itch.io/hollow-knight-web-port
+
 Diversos Jogos https://marvelvscapcom2.online/juegos.html
