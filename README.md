@@ -38,3 +38,5 @@ Super Mario 64 https://olivers.tools/play
 Mortal Kombat Shaolin Monks https://mortalkombatsm.online
 
 Marvel vs Capcom https://marvelvscapcom2.online
+
+Diversos Jogos https://marvelvscapcom2.online/juegos.html
